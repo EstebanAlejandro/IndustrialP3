@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IndustrialP3</string>
+    <string name="title">Electrónica Industrial</string>
+    <string name="subtitle">Por: Laura Velásquez</string>
+    <string name="sent">Sentido</string>
+    <string name="sen1">CW</string>
+    <string name="sen2">CCW</string>
+    <string name="stop">Stop</string>
+    <string name="run">Run</string>
+    <string name="freq">Frecuencia</string>
+    <string name="hz">Hz</string>
+    <string name="sel">Select Motor</string>
+    <string name="trama">Trama</string>
+    <string name="probe">Probe</string>
+    <string-array name="motors">
+        <item>Motor 1</item>
+        <item>Motor 2</item>
+        <item>Motor 3</item>
+        <item>Motor 4</item>
+    </string-array>
+</resources>
